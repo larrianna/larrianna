@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, I'm Larrianna Warner and I'm a senior at the University of Washington <br>studying Computer Science! Before coming to UW, I served in the United States<br>Air Force as a Russian Cryptologic Linguist (1N3I) :D<br>I LOVE computer security and application development. For computer security, I<br>code in C and C++. For mobile applications, I use JavaScript and SQLite for <br>databases. But I'm most comfortable in Python for everyday use, but I also<br>know Java :)<br>In my personal life, I enjoy walking my two pomeranians, making espresso, cooking,<br>and gardening. 
+Hi there, I'm Larrianna Warner and I'm a senior at the University of Washington studying Computer Science! Before coming to UW, I served in the United States Air Force as a Russian Cryptologic Linguist (1N3I) :D 
+I LOVE computer security and application development. For computer security, I code in C and C++. For mobile applications, I use JavaScript and SQLite for databases. But I'm most comfortable in Python for everyday use, but I also know Java :) 
+In my personal life, I enjoy walking my two pomeranians, making espresso, cooking, and gardening. 
 
 
 ## 🌐 Socials:
